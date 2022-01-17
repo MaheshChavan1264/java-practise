@@ -1,0 +1,20 @@
+{
+  "insuranceId": 123,
+  "clientId": 1234,
+  "firstName": "Rahul",
+  "lastName": "Sethi",
+  "dateOfBirth": "1995-09-10",
+  "age": 26,
+  "gender": "Male",
+  "email": "rahul@mail.com",
+  "contactNo": "3847657834",
+  "aadharNo": "3874657834",
+  "panNo": "BHJDJ873N",
+  "annualIncome": 500000,
+  "occupation": "Engineer",
+  "qualification": "BTECH",
+  "pincode": 412105,
+  "city": "PUne",
+  "insurancePlan": "Term Life Insurance",
+  "primaryNominneName": "Raj"
+}
